@@ -1,0 +1,7 @@
+light brown - #DAA738
+brown - #9A6619
+gray - #B7C0C0
+dark gray - #645F52
+dark grown - #3C2C2D
+
+https://colorleap.app/time/2000BC
